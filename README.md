@@ -1,7 +1,12 @@
 ### Yo, what's up? 👋
 # 👨🏻‍💻 卂几丨ㄥ 乃卄卂ㄒㄒ卂尺卂丨
-<div>
-    <body bg_color=000000>
+<html>
+<body style="background-color:black;">
+
+<h1>This is a heading</h1>
+<p>This is a paragraph.</p>
+
+
 <p align="center">
 🕸 Website: <a href="https://theanilbhattarai.com" target="_blank">theanilbhattarai.com</a> ╼╾ 🐦 Twitter: <a href="https://twitter.nikolavinci.com" target="_blank">@Anil Bhattarai</a> ╼╾ 🔗 Linkedin: <a href="https://linkedin.com/nikolavinci" target="_blank">Anil Bhattarai</a> ╼╾ 📊 Instagram: 
 </p>
@@ -50,4 +55,6 @@
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=theanilbhattarai)
 
-<a href="https://hackclub.com/"><img src="https://assets.hackclub.com/flag-orpheus-left.png" width="100"></a>
+</body>
+</html>
+
