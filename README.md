@@ -3,6 +3,7 @@
 <p align="center" body>
     🕸 Website: <a href="https://theanilbhattarai.com" target="_blank">theanilbhattarai.com</a> ╼╾ 🐦 Twitter: <a href="https://twitter.nikolavinci.com" target="_blank">@Anil Bhattarai</a> ╼╾ 🔗 Linkedin: <a href="https://linkedin.com/nikolavinci" target="_blank">Anil Bhattarai</a> ╼╾ 📊 Instagram: 
 </p>
+
 <div align = "center">
 
 ![Anil's Github Status](https://github-readme-stats.vercel.app/api?username=theanilbhattarai&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
@@ -10,8 +11,10 @@
 <hr>
 
 </div>
+
 ---
-## Social & Professional 
+
+𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙬𝙞𝙩𝙝 𝙢𝙚
 <p align="left">
     <a href="#">
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/spotify.svg" alt="spotify" style="vertical-align:top; margin:6px 4px">
@@ -54,22 +57,15 @@
     </a>    
 </p>
 --- 
-###MY Github Stats
-<p>
-<div align = "center">
-![Anil's Github Status](https://github-readme-stats.vercel.app/api?username=theanilbhattarai&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
-<hr>
-</div>
-</p>
----
+
 
 ## 💻 My Tech Stack
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
 |-|-|
 [![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=white)](https://www.python.org/) | 
-
 <!-- END OF PROFILE STACK, DO NOT REMOVE -->
+
 <div align="center">
     Not including Private Repositories
 </div>
