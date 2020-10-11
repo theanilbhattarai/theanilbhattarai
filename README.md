@@ -1,7 +1,7 @@
 ### Yo, what's up? 👋
 # 👨🏻‍💻 𝘼𝙣𝙞𝙡 𝘽𝙝𝙖𝙩𝙩𝙖𝙧𝙖𝙞
 <p align="center" body>
-    🕸 Website: <a src="https://img.shields.io/static/v1?label=Website&message=theanilbhattarai.com&color=black" href="https://theanilbhattarai.com" target="_blank">theanilbhattarai.com</a>
+    🕸 Website: <a href="https://theanilbhattarai.com" target="_blank">theanilbhattarai.com> <img src="https://img.shields.io/static/v1?label=Website&message=theanilbhattarai.com&color=black" > </a>
  
    <a href="#">
     <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" href="theanilbhattarai.com" alt="website" style="vertical-align:top; margin:6px 4px">
