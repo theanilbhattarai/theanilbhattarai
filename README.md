@@ -5,7 +5,7 @@
 🕸 Website: <a href="https://theanilbhattarai.com" target="_blank">theanilbhattarai.com</a> ╼╾ 🐦 Twitter: <a href="https://twitter.nikolavinci.com" target="_blank">@Anil Bhattarai</a> ╼╾ 🔗 Linkedin: <a href="https://linkedin.com/nikolavinci" target="_blank">Anil Bhattarai</a> ╼╾ 📊 Instagram: <a href="https://instagram.com/theanilbhattarai" target="_blank">theanilbhattarai</a>
 </p>
 
-👋🏼 Hello! Ever since I was a little kid I've always been looking to make things, especially when it can help someone or bring someone joy. In January 2019 I started programming on my [FIRST robotics](https://www.firstinspires.org/robotics/frc) team, [501 The PowerKnights](https://github.com/Team-501-The-PowerKnights) as a [computer vision](https://github.com/Team-501-The-PowerKnights/Vision2020) programmer. Since then I have been fascinated with programming, trying to learn as much as possible. I am currently working at [@banur](https://github.com/banurapp) as a Mobile Engineer. Besides programming I enjoy [📷 photography](https://lightroom.adobe.com/shares/71921c41321440ed968321b930b1c7e7), 🚵🏼‍♂️ riding my bike, 🚶🏼‍♂️ hiking, and hanging out with friends. You should check out [@hackclub](https://hackclub.com/)!
+👋🏼 Hello! 
 
 <div align="center">
     Here are some of my GitHub stats:
