@@ -39,13 +39,11 @@
 </div>
 
 ##  Github Stats
-<p align = "center">
+<div align = "center">
 
 ![Anil's Github Status](https://github-readme-stats.vercel.app/api?username=theanilbhattarai&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 
-<hr>
-
-</p>
+</div>
 
 <!-- START OF LANGUAGES, DO NOT REMOVE -->
 
