@@ -62,7 +62,7 @@
 
 <p align="left">
   <a href="#">
-    <img src="https://github.com/theanilbhattarai/ColoredBadges/blob/master/svg/dev/tools/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+    <img src="svg/dev/tools/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
