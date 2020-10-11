@@ -12,6 +12,7 @@
 
 </div>
 
+## Connect
 <div align = "center">
 ## 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙬𝙞𝙩𝙝 𝙢𝙚
 <p align="center">
