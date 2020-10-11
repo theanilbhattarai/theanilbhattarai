@@ -58,7 +58,46 @@
 </p>
 </div>
 
+### Languages 
 
+<p align="left">
+  <a href="#">
+    <img src="https://github.com/theanilbhattarai/ColoredBadges/blob/master/svg/dev/tools/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="https://github.com/theanilbhattarai/ColoredBadges/blob/master/svg/dev/tools/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="https://github.com/theanilbhattarai/ColoredBadges/blob/master/svg/dev/tools/dart_colour.svg" alt="dart_colour" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="https://github.com/theanilbhattarai/ColoredBadges/blob/master/svg/dev/tools/go.svg" alt="go" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="https://github.com/theanilbhattarai/ColoredBadges/blob/master/svg/dev/tools/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="https://github.com/theanilbhattarai/ColoredBadges/blob/master/svg/dev/tools/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="https://github.com/theanilbhattarai/ColoredBadges/blob/master/svg/dev/tools/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="https://github.com/theanilbhattarai/ColoredBadges/blob/master/svg/dev/tools/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="https://github.com/theanilbhattarai/ColoredBadges/blob/master/svg/dev/tools/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+</p>
 
 ## 💻 My Tech Stack
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
