@@ -19,6 +19,7 @@
     </a>  
 </p>
 <div align=center">
+<h2>Github Stats</h2>
 ##  Github Stats
 </div>
 <div align = "center">
