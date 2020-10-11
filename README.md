@@ -1,13 +1,8 @@
 ### Yo, what's up? 👋
 # 👨🏻‍💻 卂几丨ㄥ 乃卄卂ㄒㄒ卂尺卂丨
-<html>
-<body style="background-color:black;">
-
-<h1>This is a heading</h1>
-<p>This is a paragraph.</p>
-
 
 <p align="center">
+         body style="background-color:black;"
 🕸 Website: <a href="https://theanilbhattarai.com" target="_blank">theanilbhattarai.com</a> ╼╾ 🐦 Twitter: <a href="https://twitter.nikolavinci.com" target="_blank">@Anil Bhattarai</a> ╼╾ 🔗 Linkedin: <a href="https://linkedin.com/nikolavinci" target="_blank">Anil Bhattarai</a> ╼╾ 📊 Instagram: 
 </p>
 
