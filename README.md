@@ -1,13 +1,14 @@
 ### Yo, what's up? 👋
 # 👨🏻‍💻 卂几丨ㄥ 乃卄卂ㄒㄒ卂尺卂丨
 <p align="center" body>
-    🕸 Website: <a href="https://theanilbhattarai.com" target="_blank">theanilbhattarai.com</a> ╼╾ 🐦 Twitter: <a href="https://twitter.nikolavinci.com" target="_blank">@Anil Bhattarai</a> ╼╾ 🔗 Linkedin: <a href="https://linkedin.com/nikolavinci" target="_blank">Anil Bhattarai</a> ╼╾ 📊 Instagram: 
+    🕸 Website: <a href="https://theanilbhattarai.com" target="_blank">theanilbhattarai.com</a>
 </p>
 
 <p align="center" body>
    <a href="#">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://linkedin.com/theanilbhattarai.com" alt="linkedin" style="vertical-align:top; margin:6px 4px">
     </a>  
+    
    <a href="#">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" href="https://instagram.com/theanilbhattarai.com" alt="instagram" style="vertical-align:top; margin:6px 4px">
     </a>  
@@ -15,6 +16,11 @@
    <a href="#">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" href="https://facebook.com/theanilbhattarai.com" alt="facebook" style="vertical-align:top; margin:6px 4px">
     </a>  
+    
+   <a href="#">
+    <img src="https://img.shields.io/badge/messenger-00B2FF?&style=for-the-badge&logo=messenger&logoColor=white" href="https://m.me/theanilbhattarai.com" alt="messenger" style="vertical-align:top; margin:6px 4px">
+    </a>    
+    
 </p>
 
 ##  Github Stats
