@@ -22,12 +22,11 @@
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/spotify.svg" />
 
 
-
 ## Social & Professional 
 <p align="left">
 
   <a href="#">
-    <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+    <img src="https://github.com/MikeCodesDotNET/ColoredBadges/tree/master/svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>    
   
 </p>
