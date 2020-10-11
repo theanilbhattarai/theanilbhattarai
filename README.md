@@ -6,7 +6,7 @@
 Yo, people what's up?
 Welcome to my Github. I love coding as a hobby.
 
-- 🔭 I’m currently working on some Android Projects in Kotlin
+ 🔭 I’m currently working on some Android Projects in Kotlin
 - 🌱 I’m currently learning Android in Kotlin 
 - 👯 I’m looking to collaborate on some fun Android projects
 - 🤔 I’m looking for help with learning more advanced stuffs
