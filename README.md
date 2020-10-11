@@ -8,7 +8,7 @@
 </p>
 
 <a href="https://facebook.com/theanilbhattarai">
-         <img height="32" width="32" style="background-color:#ffffff" color="#575667" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
+         <img height="32" width="32" style="vertical-align:top; margin:6px 4px; background-color:#fff888" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
       </a>
                                
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <a href="https://facebook.com/theanilbhattarai" target="_blank">theanilbhattarai</a>
