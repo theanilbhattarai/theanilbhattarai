@@ -8,8 +8,6 @@
    <a href="#">
     <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://linkedin.com/theanilbhattarai.com" alt="linkedin" style="vertical-align:top; margin:6px 4px">
     </a>  
- 
-    
    <a href="#">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" href="https://instagram.com/theanilbhattarai.com" alt="instagram" style="vertical-align:top; margin:6px 4px">
     </a>  
@@ -18,11 +16,8 @@
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" href="https://facebook.com/theanilbhattarai.com" alt="facebook" style="vertical-align:top; margin:6px 4px">
     </a>  
 </p>
-<div align=center">
- <p align="center"> <h2 style="text-align:center">Github Stats</h2> </p>
 
 ##  Github Stats
-</div>
 <div align = "center">
 
 ![Anil's Github Status](https://github-readme-stats.vercel.app/api?username=theanilbhattarai&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
