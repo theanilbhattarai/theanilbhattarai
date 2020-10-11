@@ -63,7 +63,7 @@
   </a>  
 </p>
 
-<p>
+<p align="center">
   <a href="#">
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>  
