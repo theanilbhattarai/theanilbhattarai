@@ -18,8 +18,9 @@
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" href="https://facebook.com/theanilbhattarai.com" alt="facebook" style="vertical-align:top; margin:6px 4px">
     </a>  
 </p>
-
+<div align=center">
 ##  Github Stats
+</div>
 <div align = "center">
 
 ![Anil's Github Status](https://github-readme-stats.vercel.app/api?username=theanilbhattarai&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
@@ -74,7 +75,6 @@
 </div>
 
 ### Languages 
-
 <p align="center">
   
   <a href="#">
@@ -107,22 +107,15 @@
    
 </p>
 
+<!-- START OF Platforms STACK, DO NOT REMOVE -->
 ## Platforms
  <a href="#">
     <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="wordpress" style="vertical-align:top; margin:6px 4px">
   </a>  
-  
+ <!-- END OF PLATFORM, DO NOT REMOVE -->
   
 ## 💻 My Tech Stack
-<!-- START OF PROFILE STACK, DO NOT REMOVE -->
-| 💻 **Technology** | 🚀 **Projects** |
-|-|-|
-[![Python](https://img.shields.io/static/v1?label=&message=Python&color=3C78A9&logo=python&logoColor=white)](https://www.python.org/) | 
-<!-- END OF PROFILE STACK, DO NOT REMOVE -->
 
-<div align="center">
-    Not including Private Repositories
-</div>
 
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=theanilbhattarai)
