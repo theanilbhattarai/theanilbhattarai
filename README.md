@@ -67,11 +67,16 @@
   </a>  
   
   <a href="#">
+    <img height="32" width="32" src=" https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="csharp" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  <a href="#">
     <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp" style="vertical-align:top; margin:6px 4px">
   </a>  
+  
 
   <a href="#">
-    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css3/css3.png" alt="css3" style="vertical-align:top; margin:6px 4px">
+    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
@@ -91,7 +96,7 @@
   </a>  
 
   <a href="#">
-    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/js/js.png" alt="js" style="vertical-align:top; margin:6px 4px">
+    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
@@ -99,10 +104,16 @@
   </a>  
 
   <a href="#">
-    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python.python.png" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>  
-
+   
 </p>
+
+ <a href="#">
+    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="wordpress" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  
 ## 💻 My Tech Stack
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
