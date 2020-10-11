@@ -19,7 +19,7 @@
     </a>  
 </p>
 <div align=center">
- <p align="center" <h2>Github Stats</h2> >
+ <p align="center" <h2>Github Stats</h2> </p>
 
 ##  Github Stats
 </div>
