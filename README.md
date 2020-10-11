@@ -102,7 +102,7 @@
   </a>  
 
   <a href="#">
-    <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>  
    
 </p>
