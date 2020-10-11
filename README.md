@@ -75,14 +75,14 @@
 
 ### Languages 
 
-<p align="left">
+<p align="center">
   
   <a href="#">
     <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" style="vertical-align:top; margin:6px 4px">
   </a>  
   
    <a href="#">
-    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" style="vertical-align:top; margin:6px 4px">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="java" style="vertical-align:top; margin:6px 4px">
   </a>  
   
    <a href="#">
@@ -98,7 +98,7 @@
   </a>  
   
   <a href="#">
-    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" style="vertical-align:top; margin:6px 4px">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="php" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
