@@ -3,14 +3,17 @@
 <div>
     <body bg_color=000000>
 <p align="center">
-🕸 Website: <a href="https://theanilbhattarai.com" target="_blank">theanilbhattarai.com</a> ╼╾ 🐦 Twitter: <a href="https://twitter.nikolavinci.com" target="_blank">@Anil Bhattarai</a> ╼╾ 🔗 Linkedin: <a href="https://linkedin.com/nikolavinci" target="_blank">Anil Bhattarai</a> ╼╾ 📊 Instagram: <a href="https://instagram.com/theanilbhattarai" target="_blank">theanilbhattarai</a>
+🕸 Website: <a href="https://theanilbhattarai.com" target="_blank">theanilbhattarai.com</a> ╼╾ 🐦 Twitter: <a href="https://twitter.nikolavinci.com" target="_blank">@Anil Bhattarai</a> ╼╾ 🔗 Linkedin: <a href="https://linkedin.com/nikolavinci" target="_blank">Anil Bhattarai</a> ╼╾ 📊 Instagram: 
 </p>
 
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />
-<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" /> <a href="https://facebook.com/theanilbhattarai" target="_blank">theanilbhattarai</a>
+
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" /> <a href="https://instagram.com/theanilbhattarai" target="_blank">theanilbhattarai</a>
+
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" />
+
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/spotify.svg" />
 
 👋🏼 Yo, what's up! 
