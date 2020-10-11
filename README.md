@@ -11,8 +11,8 @@
 <hr>
 
 </div>
----
 
+<div align = "center">
 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙬𝙞𝙩𝙝 𝙢𝙚
 <p align="left">
     <a href="#">
@@ -55,7 +55,8 @@
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
     </a>    
 </p>
---- 
+</div>
+
 
 
 ## 💻 My Tech Stack
