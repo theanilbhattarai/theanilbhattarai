@@ -2,7 +2,7 @@
 
 <!--
 **theanilbhattarai/theanilbhattarai** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
+-->
 Yo, people what's up?
 Welcome to my Github. I love coding as a hobby.
 
@@ -14,4 +14,4 @@ Welcome to my Github. I love coding as a hobby.
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
