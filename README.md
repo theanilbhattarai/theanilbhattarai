@@ -13,8 +13,8 @@
 </div>
 
 <div align = "center">
-𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙬𝙞𝙩𝙝 𝙢𝙚
-<p align="left">
+## 𝘾𝙤𝙣𝙣𝙚𝙘𝙩 𝙬𝙞𝙩𝙝 𝙢𝙚
+<p align="center">
     <a href="#">
     <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/spotify.svg" alt="spotify" style="vertical-align:top; margin:6px 4px">
     </a>  
