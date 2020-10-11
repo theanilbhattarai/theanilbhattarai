@@ -58,18 +58,24 @@ https://img.shields.io/badge/messenger-00B2FF?&style=for-the-badge&logo=messenge
   <a href="soundcloud.com/nikolavinci">
     <img src="svg/social/soundcloud.svg" alt="soundcloud" style="vertical-align:top; margin:6px 4px">
   </a>  
-
+ 
   <a href="#">
-    <img src="svg/social/speakerdeck.svg" alt="speakerdeck" style="vertical-align:top; margin:6px 4px">
-  </a>    <a href="#">
     <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
-  </a>    <a href="#">
+  </a>   
+  
+  <a href="#">
     <img src="svg/social/steam.svg" alt="steam" style="vertical-align:top; margin:6px 4px">
-  </a>    <a href="t.me/nikolavinci">
+  </a>    
+  
+  <a href="t.me/nikolavinci">
     <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
-  </a>    <a href="#">
+  </a>    
+  
+  <a href="#">
     <img src="svg/social/tiktok.svg" alt="tiktok" style="vertical-align:top; margin:6px 4px">
-  </a>    <a href="twitter.com/nikolavinci">
+  </a>    
+  
+  <a href="twitter.com/nikolavinci">
     <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>    
 </p>
