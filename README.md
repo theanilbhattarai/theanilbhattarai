@@ -4,6 +4,20 @@
     🕸 Website: <a href="https://theanilbhattarai.com" target="_blank">theanilbhattarai.com</a> ╼╾ 🐦 Twitter: <a href="https://twitter.nikolavinci.com" target="_blank">@Anil Bhattarai</a> ╼╾ 🔗 Linkedin: <a href="https://linkedin.com/nikolavinci" target="_blank">Anil Bhattarai</a> ╼╾ 📊 Instagram: 
 </p>
 
+   <a href="#">
+    <img height="32" width="32" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://linkedin.com/theanilbhattarai.com" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+    </a>  
+ 
+    
+   <a href="#">
+    <img height="32" width="32" src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" href="https://instagram.com/theanilbhattarai.com" alt="instagram" style="vertical-align:top; margin:6px 4px">
+    </a>  
+   
+   <a href="#">
+    <img height="32" width="32" src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" href="https://facebook.com/theanilbhattarai.com" alt="facebook" style="vertical-align:top; margin:6px 4px">
+    </a>  
+
+
 ##  Github Stats
 <div align = "center">
 
@@ -75,15 +89,6 @@
   </a>  
   
   
-  <a href="#">
-    <img height="32" width="32" src=" https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/c/c.png" alt="csharp" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  
-  <a href="#">
-    <img height="32" width="32" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" alt="csharp" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  
-  
    <a href="#">
     <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" style="vertical-align:top; margin:6px 4px">
   </a>  
@@ -110,9 +115,9 @@
   <a href="#">
     <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" style="vertical-align:top; margin:6px 4px">
   </a>  
-  
+
   <a href="#">
-    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.svg" alt="dart_colour" style="vertical-align:top; margin:6px 4px">
+    <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>  
 
 
