@@ -1,10 +1,12 @@
 ### Yo, what's up? 👋
 # 👨🏻‍💻 卂几丨ㄥ 乃卄卂ㄒㄒ卂尺卂丨
 
-<p align="center" body style="background-color:black;">
+<p align="center" body>
          
 🕸 Website: <a href="https://theanilbhattarai.com" target="_blank">theanilbhattarai.com</a> ╼╾ 🐦 Twitter: <a href="https://twitter.nikolavinci.com" target="_blank">@Anil Bhattarai</a> ╼╾ 🔗 Linkedin: <a href="https://linkedin.com/nikolavinci" target="_blank">Anil Bhattarai</a> ╼╾ 📊 Instagram: 
+
 </p>
+https://img.shields.io/badge/messenger-00B2FF?&style=for-the-badge&logo=messenger&logoColor=white
 
 <a href="https://facebook.com/theanilbhattarai">
          <img height="32" width="32" style="background-color:#ffffff" color="#575667" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
@@ -20,7 +22,57 @@
 
 <img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/spotify.svg" />
 
-<svg role="img" viewBox="0 0 24 24" xmlns="http://www.w3.org/2000/svg"><title>LinkedIn icon</title><path d="M20.447 20.452h-3.554v-5.569c0-1.328-.027-3.037-1.852-3.037-1.853 0-2.136 1.445-2.136 2.939v5.667H9.351V9h3.414v1.561h.046c.477-.9 1.637-1.85 3.37-1.85 3.601 0 4.267 2.37 4.267 5.455v6.286zM5.337 7.433c-1.144 0-2.063-.926-2.063-2.065 0-1.138.92-2.063 2.063-2.063 1.14 0 2.064.925 2.064 2.063 0 1.139-.925 2.065-2.064 2.065zm1.782 13.019H3.555V9h3.564v11.452zM22.225 0H1.771C.792 0 0 .774 0 1.729v20.542C0 23.227.792 24 1.771 24h20.451C23.2 24 24 23.227 24 22.271V1.729C24 .774 23.2 0 22.222 0h.003z"/></svg>
+
+
+## Social & Professional 
+<p align="left">
+
+  <a href="#">
+    <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  <a href="#">
+    <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="https://instagram.com/theanilbhattarai">
+    <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="linkedin.com/theanilbhattarai">
+    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/social/reddit.svg" alt="reddit" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="skype.com/nikolavinci">
+    <img src="svg/social/skype.svg" alt="skype" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="snapchat.com/nikolavinci">
+    <img src="svg/social/snapchat.svg" alt="snapchat" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="soundcloud.com/nikolavinci">
+    <img src="svg/social/soundcloud.svg" alt="soundcloud" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="svg/social/speakerdeck.svg" alt="speakerdeck" style="vertical-align:top; margin:6px 4px">
+  </a>    <a href="#">
+    <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
+  </a>    <a href="#">
+    <img src="svg/social/steam.svg" alt="steam" style="vertical-align:top; margin:6px 4px">
+  </a>    <a href="t.me/nikolavinci">
+    <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
+  </a>    <a href="#">
+    <img src="svg/social/tiktok.svg" alt="tiktok" style="vertical-align:top; margin:6px 4px">
+  </a>    <a href="twitter.com/nikolavinci">
+    <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+  </a>    
+</p>
 
 👋🏼 Yo, what's up! 
 
