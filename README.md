@@ -19,11 +19,20 @@
     
    <a href="#">
     <img src="https://img.shields.io/badge/messenger-00B2FF?&style=for-the-badge&logo=messenger&logoColor=white" href="https://m.me/theanilbhattarai.com" alt="messenger" style="vertical-align:top; margin:6px 4px">
-    </a>        
+    </a>      
+    
+   <a href="#">
+    <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white " href="https://twitter.com/nikolavinci" alt="twitter" style="vertical-align:top; margin:6px 4px">
+    </a>      
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" href="https://github.com/theanilbhattarai.com" alt="github" style="vertical-align:top; margin:6px 4px">
+    </a>     
+    
 </p>
 
 <div align = "center">
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=theanilbhattarai)
 
