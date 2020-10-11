@@ -27,56 +27,9 @@
 <p align="left">
 
   <a href="#">
-    <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  
-  <a href="#">
-    <img src="svg/social/gmail.svg" alt="gmail" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="https://instagram.com/theanilbhattarai">
-    <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="linkedin.com/theanilbhattarai">
-    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="svg/social/reddit.svg" alt="reddit" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="skype.com/nikolavinci">
-    <img src="svg/social/skype.svg" alt="skype" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="snapchat.com/nikolavinci">
-    <img src="svg/social/snapchat.svg" alt="snapchat" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="soundcloud.com/nikolavinci">
-    <img src="svg/social/soundcloud.svg" alt="soundcloud" style="vertical-align:top; margin:6px 4px">
-  </a>  
- 
-  <a href="#">
-    <img src="svg/social/stackoverflow.svg" alt="stackoverflow" style="vertical-align:top; margin:6px 4px">
-  </a>   
-  
-  <a href="#">
-    <img src="svg/social/steam.svg" alt="steam" style="vertical-align:top; margin:6px 4px">
-  </a>    
-  
-  <a href="t.me/nikolavinci">
-    <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
-  </a>    
-  
-  <a href="#">
-    <img src="svg/social/tiktok.svg" alt="tiktok" style="vertical-align:top; margin:6px 4px">
-  </a>    
-  
-  <a href="twitter.com/nikolavinci">
     <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>    
+  
 </p>
 
 
@@ -120,7 +73,6 @@
   <a href="#">
     <img src="svg/social/outlook.svg" alt="outlook" style="vertical-align:top; margin:6px 4px">
   </a>  
-
 
   <a href="#">
     <img src="svg/social/reddit.svg" alt="reddit" style="vertical-align:top; margin:6px 4px">
