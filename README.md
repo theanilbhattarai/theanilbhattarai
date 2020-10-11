@@ -58,12 +58,18 @@
     </a>    
 </p>
 --- 
-👋🏼 Yo, what's up! 
+<div align = "center">
+![Anil's Github Status](https://github-readme-stats.vercel.app/api?username=theanilbhattarai&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+<hr>
+</div>
+---
+
 <div align = "center">
     ![Anil's Github Status](https://github-readme-stats.vercel.app/api?username=theanilbhattarai&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
 </div>
 
 ---
+
 ## 💻 My Tech Stack
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
