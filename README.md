@@ -61,7 +61,9 @@
    <a href="#">
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html" style="vertical-align:top; margin:6px 4px">
   </a>  
-  
+</p>
+
+<p>
   <a href="#">
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>  
@@ -83,12 +85,13 @@
 
 <!-- START OF Platforms STACK, DO NOT REMOVE -->
 ## Platforms
+<p align="center">
  <a href="#">
     <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="wordpress" style="vertical-align:top; margin:6px 4px">
   </a>  
+</p>
  <!-- END OF PLATFORM, DO NOT REMOVE -->
   
-## 💻 My Tech Stack
 
 ## Connect
 <div align = "center">
