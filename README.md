@@ -62,11 +62,11 @@
 
 <p align="left">
   <a href="#">
-    <img src="svg/dev/tools/csharp.svg" alt="csharp" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="https://github.com/theanilbhattarai/ColoredBadges/blob/master/svg/dev/tools/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css3/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
