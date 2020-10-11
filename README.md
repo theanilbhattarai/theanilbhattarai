@@ -3,7 +3,13 @@
 <p align="center" body>
     🕸 Website: <a href="https://theanilbhattarai.com" target="_blank">theanilbhattarai.com</a> ╼╾ 🐦 Twitter: <a href="https://twitter.nikolavinci.com" target="_blank">@Anil Bhattarai</a> ╼╾ 🔗 Linkedin: <a href="https://linkedin.com/nikolavinci" target="_blank">Anil Bhattarai</a> ╼╾ 📊 Instagram: 
 </p>
+<div align = "center">
 
+![Anil's Github Status](https://github-readme-stats.vercel.app/api?username=theanilbhattarai&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
+
+<hr>
+
+</div>
 ---
 ## Social & Professional 
 <p align="left">
