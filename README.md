@@ -1,8 +1,7 @@
-### Yo, what's up? 👋
-# 👨🏻‍💻 𝘼𝙣𝙞𝙡 𝘽𝙝𝙖𝙩𝙩𝙖𝙧𝙖𝙞
+# 👨🏻‍💻 Yo, what's up? 👋
 <p align="center" body>
      <a href="https://theanilbhattarai.com"> <img src="https://img.shields.io/static/v1?label=Website&message=theanilbhattarai.com&color=black"> </a>
-    
+
 </p>
 
 <p align="center" body>
@@ -48,7 +47,51 @@
 
 </div>
 
-### Connect
+<!-- START OF LANGUAGES, DO NOT REMOVE -->
+## Languages 
+<p align="center">
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+   <a href="#">
+    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="java" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+   <a href="#">
+    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
+  <a href="#">
+    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="php" style="vertical-align:top; margin:6px 4px">
+  </a>  
+
+  <a href="#">
+    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python" style="vertical-align:top; margin:6px 4px">
+  </a>  
+</p>
+ <!-- END OF LANGUAGES, DO NOT REMOVE -->
+
+
+<!-- START OF Platforms STACK, DO NOT REMOVE -->
+## Platforms
+ <a href="#">
+    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="wordpress" style="vertical-align:top; margin:6px 4px">
+  </a>  
+ <!-- END OF PLATFORM, DO NOT REMOVE -->
+  
+## 💻 My Tech Stack
+
+## Connect
 <div align = "center">
 <p align="center">
     <a href="#">
@@ -92,47 +135,3 @@
     </a>    
 </p>
 </div>
-
-### Languages 
-<p align="center">
-  
-  <a href="#">
-    <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  
-   <a href="#">
-    <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" alt="java" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  
-   <a href="#">
-    <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  
-  <a href="#">
-    <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  
-  <a href="#">
-    <img src="https://img.shields.io/badge/php-%23777BB4.svg?&style=for-the-badge&logo=php&logoColor=white" alt="php" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  <a href="#">
-    <img src="https://img.shields.io/badge/python%20-%2314354C.svg?&style=for-the-badge&logo=python&logoColor=white" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a>  
-   
-</p>
-
-<!-- START OF Platforms STACK, DO NOT REMOVE -->
-## Platforms
- <a href="#">
-    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/wordpress/wordpress.png" alt="wordpress" style="vertical-align:top; margin:6px 4px">
-  </a>  
- <!-- END OF PLATFORM, DO NOT REMOVE -->
-  
-## 💻 My Tech Stack
-
-
