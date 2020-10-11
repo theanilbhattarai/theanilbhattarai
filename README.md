@@ -76,10 +76,6 @@
 ### Languages 
 
 <p align="left">
-    
-   <a href="#">
-    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="kotlin" style="vertical-align:top; margin:6px 4px">
-  </a>  
   
   <a href="#">
     <img src="https://img.shields.io/badge/kotlin-%230095D5.svg?&style=for-the-badge&logo=kotlin&logoColor=white" alt="kotlin" style="vertical-align:top; margin:6px 4px">
@@ -89,41 +85,24 @@
     <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" style="vertical-align:top; margin:6px 4px">
   </a>  
   
-  
-   <a href="#">
-    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-  
    <a href="#">
     <img src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" alt="html" style="vertical-align:top; margin:6px 4px">
   </a>  
   
   <a href="#">
-    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" alt="css3" style="vertical-align:top; margin:6px 4px">
-  </a>  
-  <a href="#">
     <img src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>  
-<a href="#">
-    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" alt="js" style="vertical-align:top; margin:6px 4px">
-  </a>  
+
   <a href="#">
     <img src="https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="js" style="vertical-align:top; margin:6px 4px">
   </a>  
   
-
   <a href="#">
     <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
     <img src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" alt="python" style="vertical-align:top; margin:6px 4px">
-  </a>  
-
-
-  <a href="#">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>  
    
 </p>
