@@ -62,43 +62,42 @@
 
 <p align="left">
   <a href="#">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp" style="vertical-align:top; margin:6px 4px">
+    <img height="32" width="32" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css3/css3.svg" alt="css3" style="vertical-align:top; margin:6px 4px">
+    <img height="32" width="32" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css3/css3.png" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="https://github.com/theanilbhattarai/ColoredBadges/blob/master/svg/dev/tools/dart_colour.svg" alt="dart_colour" style="vertical-align:top; margin:6px 4px">
+    <img height="32" width="32" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.svg" alt="dart_colour" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="https://github.com/theanilbhattarai/ColoredBadges/blob/master/svg/dev/tools/go.svg" alt="go" style="vertical-align:top; margin:6px 4px">
+    <img height="32" width="32" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="https://github.com/theanilbhattarai/ColoredBadges/blob/master/svg/dev/tools/html.svg" alt="html" style="vertical-align:top; margin:6px 4px">
+    <img height="32" width="32" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="https://github.com/theanilbhattarai/ColoredBadges/blob/master/svg/dev/tools/java.svg" alt="java" style="vertical-align:top; margin:6px 4px">
+    <img height="32" width="32" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="https://github.com/theanilbhattarai/ColoredBadges/blob/master/svg/dev/tools/js.svg" alt="js" style="vertical-align:top; margin:6px 4px">
+    <img height="32" width="32" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/js/js.png" alt="js" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="https://github.com/theanilbhattarai/ColoredBadges/blob/master/svg/dev/tools/php.svg" alt="php" style="vertical-align:top; margin:6px 4px">
+    <img height="32" width="32" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="https://github.com/theanilbhattarai/ColoredBadges/blob/master/svg/dev/tools/python.svg" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img height="32" width="32" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python.python.png" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>  
 
 </p>
-
 ## 💻 My Tech Stack
 <!-- START OF PROFILE STACK, DO NOT REMOVE -->
 | 💻 **Technology** | 🚀 **Projects** |
