@@ -38,15 +38,15 @@
 ## Social & Professional 
 <p align="left">
   <a href="#">
-    <img src="svg/social/angellist.svg" alt="angellist" style="vertical-align:top; margin:6px 4px">
+    <img src="https://unpkg.com/simple-icons@v3/icons/spotify.svg" alt="spotify" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
     <img src="svg/social/email_me.svg" alt="email_me" style="vertical-align:top; margin:6px 4px">
   </a>  
   
-  <a href="#">
-    <img src="svg/social/foursquare.svg" alt="foursquare" style="vertical-align:top; margin:6px 4px">
+  <a href="https://facebook.com/theanilbhattarai">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" alt="facebook" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
@@ -58,11 +58,11 @@
   </a>  
 
   <a href="#">
-    <img src="svg/social/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
+    <img src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" alt="instagram" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="svg/social/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+    <img src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" alt="linkedin" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
@@ -74,19 +74,19 @@
   </a>  
 
   <a href="#">
-    <img src="svg/social/reddit.svg" alt="reddit" style="vertical-align:top; margin:6px 4px">
+    <img src="https://unpkg.com/simple-icons@v3/icons/reddit.svg" alt="reddit" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="svg/social/skype.svg" alt="skype" style="vertical-align:top; margin:6px 4px">
+    <img src="https://unpkg.com/simple-icons@v3/icons/skype.svg" alt="skype" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="svg/social/snapchat.svg" alt="snapchat" style="vertical-align:top; margin:6px 4px">
+    <img src="https://unpkg.com/simple-icons@v3/icons/snapchat.svg" alt="snapchat" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img src="svg/social/soundcloud.svg" alt="soundcloud" style="vertical-align:top; margin:6px 4px">
+    <img src="https://unpkg.com/simple-icons@v3/icons/soundcloud.svg" alt="soundcloud" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
@@ -96,15 +96,15 @@
   </a>    <a href="#">
     <img src="svg/social/steam.svg" alt="steam" style="vertical-align:top; margin:6px 4px">
   </a>    <a href="#">
-    <img src="svg/social/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
+    <img src="https://unpkg.com/simple-icons@v3/icons/telegram.svg" alt="telegram" style="vertical-align:top; margin:6px 4px">
   </a>    <a href="#">
-    <img src="svg/social/tiktok.svg" alt="tiktok" style="vertical-align:top; margin:6px 4px">
+    <img src="https://unpkg.com/simple-icons@v3/icons/tiktok.svg" alt="tiktok" style="vertical-align:top; margin:6px 4px">
   </a>    <a href="#">
-    <img src="svg/social/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
+    <img src="https://unpkg.com/simple-icons@v3/icons/twitter.svg" alt="twitter" style="vertical-align:top; margin:6px 4px">
   </a>    <a href="#">
-    <img src="svg/social/untappd.svg" alt="untappd" style="vertical-align:top; margin:6px 4px">
+    <img src="https://unpkg.com/simple-icons@v3/icons/untappd.svg" alt="untappd" style="vertical-align:top; margin:6px 4px">
   </a>    <a href="#">
-    <img src="svg/social/viber.svg" alt="viber" style="vertical-align:top; margin:6px 4px">
+    <img src="https://unpkg.com/simple-icons@v3/icons/viber.svg" alt="viber" style="vertical-align:top; margin:6px 4px">
   </a>    <a href="#">
     <img src="svg/social/whatsapp.svg" alt="whatsapp" style="vertical-align:top; margin:6px 4px">
   </a>  
