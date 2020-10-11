@@ -7,17 +7,13 @@
 </p>
 
 <img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
-<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/Instagram.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/instagram.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/linkedin.svg" />
+<img height="32" width="32" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+<img height="32" width="32" src="https://unpkg.com/simple-icons@v3/icons/spotify.svg" />
 
-👋🏼 Hello! 
-
-<div align="center">
-    Here are some of my GitHub stats:
-    <br>
-    <img src="https://github-readme-stats.vercel.app/api?username=theanilbhattarai&show_icons=true&title_color=37B256&icon_color=37B256&count_private=true&hide_title=true&show_owner=true&hide_border=true&hide=commits,contribs">
-    <br>
-    Not including Private Repositories
-</div>
+👋🏼 Yo, what's up! 
 
 <div align = "center">
 
