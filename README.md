@@ -61,40 +61,45 @@
 ### Languages 
 
 <p align="left">
+    
+   <a href="#">
+    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/kotlin/kotlin.png" alt="kotlin" style="vertical-align:top; margin:6px 4px">
+  </a>  
+  
   <a href="#">
-    <img height="32" width="32" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp" style="vertical-align:top; margin:6px 4px">
+    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/csharp/csharp.png" alt="csharp" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img height="32" width="32" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css3/css3.png" alt="css3" style="vertical-align:top; margin:6px 4px">
+    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css3/css3.png" alt="css3" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img height="32" width="32" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.svg" alt="dart_colour" style="vertical-align:top; margin:6px 4px">
+    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/dart/dart.svg" alt="dart_colour" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img height="32" width="32" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" style="vertical-align:top; margin:6px 4px">
+    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/go/go.png" alt="go" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img height="32" width="32" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" style="vertical-align:top; margin:6px 4px">
+    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" alt="html" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img height="32" width="32" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" style="vertical-align:top; margin:6px 4px">
+    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/java/java.png" alt="java" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img height="32" width="32" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/js/js.png" alt="js" style="vertical-align:top; margin:6px 4px">
+    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/js/js.png" alt="js" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img height="32" width="32" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" style="vertical-align:top; margin:6px 4px">
+    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/php/php.png" alt="php" style="vertical-align:top; margin:6px 4px">
   </a>  
 
   <a href="#">
-    <img height="32" width="32" src=https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python.python.png" alt="python" style="vertical-align:top; margin:6px 4px">
+    <img height="32" width="32" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python.python.png" alt="python" style="vertical-align:top; margin:6px 4px">
   </a>  
 
 </p>
