@@ -1,6 +1,6 @@
 ### Yo, what's up? 👋
 # 👨🏻‍💻 Anil Bhattarai
-
+<div bg_color=000000>
 <p align="center">
 🕸 Website: <a href="https://theanilbhattarai.com" target="_blank">theanilbhattarai.com</a> ╼╾ 🐦 Twitter: <a href="https://twitter.nikolavinci.com" target="_blank">@Anil Bhattarai</a> ╼╾ 🔗 Linkedin: <a href="https://linkedin.com/nikolavinci" target="_blank">Anil Bhattarai</a> ╼╾ 📊 Instagram: <a href="https://instagram.com/theanilbhattarai" target="_blank">theanilbhattarai</a>
 </p>
@@ -40,6 +40,7 @@
     Not including Private Repositories
 </div>
 
+</div>
 ## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=theanilbhattarai)
