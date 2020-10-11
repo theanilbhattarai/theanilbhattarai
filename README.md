@@ -19,9 +19,15 @@
     
    <a href="#">
     <img src="https://img.shields.io/badge/messenger-00B2FF?&style=for-the-badge&logo=messenger&logoColor=white" href="https://m.me/theanilbhattarai.com" alt="messenger" style="vertical-align:top; margin:6px 4px">
-    </a>    
-    
+    </a>        
 </p>
+
+<div align = "center">
+## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=theanilbhattarai)
+
+</div>
 
 ##  Github Stats
 <div align = "center">
@@ -119,7 +125,4 @@
   
 ## 💻 My Tech Stack
 
-
-## 𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-![visitors](https://visitor-badge.glitch.me/badge?page_id=theanilbhattarai)
 
