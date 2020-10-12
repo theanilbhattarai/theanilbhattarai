@@ -1,5 +1,10 @@
 # 👨🏻‍💻 Yo, what's up? 👋
-
+<p align = "center">
+<body 
+      
+  ![visitors](https://visitor-badge.glitch.me/badge?page_id=theanilbhattarai)
+</body>
+</p>
 <p align="center" body>
      <a href="https://theanilbhattarai.com"> <img src="https://img.shields.io/static/v1?label=Website&message=theanilbhattarai.com&color=black"> </a>
 </p>
@@ -26,11 +31,12 @@
 </p>
 
 ##  Github Stats
-<div align = "center">
-
+<p align = "center">
+<body 
+      
 ![Anil's Github Status](https://github-readme-stats.vercel.app/api?username=theanilbhattarai&show_icons=true&title_color=3793c4&icon_color=ffbb00&text_color=ffffff&bg_color=000000)
-
-</div>
+</body>
+</p>
 
 <!-- START OF LANGUAGES, DO NOT REMOVE -->
 
