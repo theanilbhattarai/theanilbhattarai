@@ -1,42 +1,29 @@
 # 👨🏻‍💻 Yo, what's up? 👋
+
 <p align="center" body>
      <a href="https://theanilbhattarai.com"> <img src="https://img.shields.io/static/v1?label=Website&message=theanilbhattarai.com&color=black"> </a>
-
 </p>
 
 <p align="center" body>
-   <a href="#">
-    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://linkedin.com/theanilbhattarai" alt="linkedin" style="vertical-align:top; margin:6px 4px">
-    </a>  
-    
-   <a href="#">
+   <a href="https://www.linkedin.com/in/anilbhattarai/">
+    <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" href="https://www.linkedin.com/in/anilbhattarai/" alt="linkedin" style="vertical-align:top; margin:6px 4px">
+    </a>   
+   <a href="https://instagram.com/theanilbhattarai">
     <img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white" href="https://instagram.com/theanilbhattarai" alt="instagram" style="vertical-align:top; margin:6px 4px">
     </a>  
-   
-   <a href="#">
+   <a href="https://facebook.com/theanilbhattarai">
     <img src="https://img.shields.io/badge/facebook-%231877F2.svg?&style=for-the-badge&logo=facebook&logoColor=white" href="https://facebook.com/theanilbhattarai" alt="facebook" style="vertical-align:top; margin:6px 4px">
-    </a>  
-    
-   <a href="#">
+    </a> 
+   <a href="https://m.me/theanilbhattarai">
     <img src="https://img.shields.io/badge/messenger-00B2FF?&style=for-the-badge&logo=messenger&logoColor=white" href="https://m.me/theanilbhattarai" alt="messenger" style="vertical-align:top; margin:6px 4px">
-    </a>      
-    
-   <a href="#">
+    </a>       
+   <a href="https://twitter.com/nikolavinci">
     <img src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white " href="https://twitter.com/nikolavinci" alt="twitter" style="vertical-align:top; margin:6px 4px">
     </a>      
-
-  <a href="#">
+  <a href="https://github.com/theanilbhattarai">
     <img src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" href="https://github.com/theanilbhattarai" alt="github" style="vertical-align:top; margin:6px 4px">
     </a>     
-    
 </p>
-
-<div align = "center">
-𝗩𝗶𝘀𝗶𝘁𝗼𝗿𝘀
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=theanilbhattarai)
-
-</div>
 
 ##  Github Stats
 <div align = "center">
